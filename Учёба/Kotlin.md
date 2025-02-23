@@ -1,0 +1,1 @@
+[Курс](https://ievetrov.ru/android-с-нуля-уроки/урок-12-компоненты-android-activity-service-content-provider-broadcast-receiver/)

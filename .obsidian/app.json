@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "useTab": true,
+  "attachmentFolderPath": "Вложения",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "showRibbon": true
+}

@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#ff0000",
+    "recentlyUsedIcons": [
+      "📗",
+      "LiBadge",
+      "IbClose",
+      "LiAlertOctagon",
+      "LiAtom"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Учёба": "LiAtom",
+  "Активное": "LiAlertOctagon",
+  "Статьи/Unix, Poslx Standard Unix Specification.md": "IbClose",
+  "Статьи/FTP.md": "IbClose",
+  "Статьи/GNU.md": "LiBadge",
+  "Словарь/Квантование времени.md": "IbClose",
+  "Словарь/Кластеризация.md": "IbClose",
+  "Книги": "📗"
+}
