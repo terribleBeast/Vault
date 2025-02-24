@@ -4,44 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c7145e84689643",
+        "id": "a25594451e67befd",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6c00ca3c1b7c0f",
+            "id": "2c8de60298362a15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Активное/Недельные планы/2025-W09.md",
+                "file": "Учёба/Stepic/Python ООП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W09"
+              "title": "Python ООП"
             }
-          }
-        ]
-      },
-      {
-        "id": "c91b91598be8e37e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c317aeaf7562279d",
+            "id": "f9799d3a2ab682a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/2025-02-24.md",
+                "file": "Учёба/! lessons Stepic/Введение в ООП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-24"
+              "title": "Введение в ООП"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,13 +210,17 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c317aeaf7562279d",
+  "active": "f9799d3a2ab682a1",
   "lastOpenFiles": [
-    "Активное/Недельные планы/2025-W09.md",
+    "Учёба/Stepic/Python ООП.md",
+    "Учёба/! lessons Stepic/Введение в ООП.md",
+    "Учёба/Stepic/Без названия",
     "Ежедневник/2025-02-24.md",
+    "Активное/Недельные планы/2025-W09.md",
     "Ежедневник/2025-02-23.md",
     "Активное/Операционные системы.md",
     "Активное/Недельные планы/20_2025-26_2025.md",
@@ -244,7 +243,6 @@
     "Ежедневник/2024-06-27.md",
     "Ежедневник/2024-11-20.md",
     "Активное/Недельные планы/2025-W08.md",
-    "Ежедневник/2025-02-22.md",
     "АГУ/Компьютерные сети",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "Учёба/Экономика",
@@ -254,7 +252,6 @@
     "Учёба/English/Теория",
     "Учёба/English/Бонк",
     "Статьи/Linux",
-    "Книги/Reviews/ООП_Python",
     "Вложения/этапы жизненного цикла сертификата (отрытого ключа).png",
     "Вложения/хранение_данных_в_виде_изменений.png",
     "Вложения/хранени_данных_в_виде_снимков.png",
