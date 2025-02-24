@@ -215,14 +215,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "c317aeaf7562279d",
   "lastOpenFiles": [
-    "Ежедневник/2025-02-23.md",
-    "Ежедневник/2025-02-24.md",
     "Активное/Недельные планы/2025-W09.md",
+    "Ежедневник/2025-02-24.md",
+    "Ежедневник/2025-02-23.md",
     "Активное/Операционные системы.md",
     "Активное/Недельные планы/20_2025-26_2025.md",
     "Активное/Темы.md",
