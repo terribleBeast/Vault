@@ -195,7 +195,8 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2c8de60298362a15",
