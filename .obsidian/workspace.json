@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Reviews/Операционные системы/Основные элементы.md",
+                "file": "Книги/Reviews/Операционные системы/Содержание. Операционные системы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные элементы"
+              "title": "Содержание. Операционные системы"
+            }
+          },
+          {
+            "id": "b3ce35be44bc7443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Reviews/Операционные системы/Словарь.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Словарь"
+            }
+          },
+          {
+            "id": "0237852b95973e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Словарь/Прерывание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Прерывание"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,9 +228,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "44e6ffd5c4ee102c",
+  "active": "b3ce35be44bc7443",
   "lastOpenFiles": [
+    "Книги/Reviews/Операционные системы/Термины к главам.md",
+    "Книги/Reviews/Операционные системы/Основные элементы.md",
     "Книги/Reviews/Операционные системы/Содержание. Операционные системы.md",
+    "Книги/Reviews/Операционные системы/Словарь.md",
+    "Словарь/Прерывание.md",
+    "Прерывания.md",
     "Учёба/Python/About/Virtual environment.md",
     "Книги/Reviews/Изучаем_Python/Изучаем Python.md",
     "Ежедневник/2025-02-28.md",
@@ -222,11 +256,6 @@
     "Учёба/Stepic/Парсинг/Сведение об requests.md",
     "Книги/Reviews/Операционные системы/Обзор компьютерной системы.md",
     "Учёба/Stepic/Телеграмм_боты_на_Python_и_AIOgram/Polling.md",
-    "Статьи/API.md",
-    "Словарь/Объект.md",
-    "АГУ/ML/Метрики качества.md",
-    "Словарь/Класс.md",
-    "Словарь/UML.md",
     "Вложения/Механизм работы прерываний.png",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
