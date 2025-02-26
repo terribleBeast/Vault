@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Reviews/Операционные системы/Словарь.md",
+                "file": "Ежедневник/2025-02-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Словарь"
+              "title": "2025-02-26"
             }
           },
           {
@@ -224,16 +224,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "b3ce35be44bc7443",
   "lastOpenFiles": [
+    "Книги/Reviews/Операционные системы/Словарь.md",
     "Книги/Reviews/Операционные системы/Термины к главам.md",
     "Книги/Reviews/Операционные системы/Основные элементы.md",
     "Книги/Reviews/Операционные системы/Содержание. Операционные системы.md",
-    "Книги/Reviews/Операционные системы/Словарь.md",
     "Словарь/Прерывание.md",
     "Прерывания.md",
     "Учёба/Python/About/Virtual environment.md",
