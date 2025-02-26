@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/2024-07-31.md",
+                "file": "Ежедневник/2025-02-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-07-31"
+              "title": "2025-02-26"
             }
           }
         ]
@@ -195,11 +195,13 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "44e6ffd5c4ee102c",
   "lastOpenFiles": [
+    "Ежедневник/2024-07-31.md",
     "Общее/Obsidian.md",
     "Активное/Темы.md",
     "Активное/Выполнить.md",
@@ -228,7 +230,6 @@
     "АГУ/React/Lab 2.md",
     "АГУ/React",
     "Учёба/Stepic/Python ООП.md",
-    "АГУ/ТФКП.md",
     "Учёба/Stepic/Без названия",
     "АГУ/Компьютерные сети",
     "Учёба/Экономика",
