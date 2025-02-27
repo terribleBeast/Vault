@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Linux/Linux.md",
+                "file": "Учёба/Linux/Linux.md",
                 "mode": "source",
                 "source": false
               },
@@ -230,11 +230,12 @@
   },
   "active": "b3ce35be44bc7443",
   "lastOpenFiles": [
-    "Статьи/Linux/Linux_Hexlet.md",
-    "Статьи/Linux/Linux.md",
+    "АГУ/План подготовки.md",
+    "Учёба/Linux/Linux.md",
+    "Учёба/Linux/Linux_содержание.md",
+    "Учёба/Linux/Linux_Hexlet.md",
     "Активное/Темы.md",
     "Активное/Заметки.md",
-    "АГУ/План подготовки.md",
     "АГУ/Лабы.md",
     "Ежедневник/2025-02-27.md",
     "Ежедневник/2025-03-01.md",
@@ -255,7 +256,6 @@
     "Ежедневник/2024-08-01.md",
     "Учёба/! lessons Stepic/Эхо-бот.md",
     "Ежедневник/2024-10-17.md",
-    "Учёба/Память.md",
     "Вложения/Механизм работы прерываний.png",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
