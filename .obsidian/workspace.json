@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/2025-03-03.md",
+                "file": "Ежедневник/2025-03-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-03"
+              "title": "2025-03-05"
             }
           }
         ],
@@ -210,12 +210,14 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b3ce35be44bc7443",
   "lastOpenFiles": [
     "Ежедневник/2025-03-04.md",
+    "Ежедневник/2025-03-05.md",
     "Ежедневник/2025-03-03.md",
     "Активное/Операционные системы.md",
     "Активное/Заметки.md",
@@ -227,7 +229,6 @@
     "АГУ/Лабы.md",
     "Учёба/Linux/Linux.md",
     "АГУ/План подготовки.md",
-    "Ежедневник/2025-03-05.md",
     "Ежедневник/2025-02-03.md",
     "Ежедневник/2025-01-31.md",
     "Ежедневник/2025-01-22.md",
