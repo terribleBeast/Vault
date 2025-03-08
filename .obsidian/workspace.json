@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
+                "file": "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Первое приложение asyncio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Содержание_Микросервисы"
+              "title": "Первое приложение asyncio"
             }
           }
         ]
@@ -195,14 +195,21 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "9908882415d6d92d",
   "lastOpenFiles": [
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Первое знакомство с asyncio.md",
+    "Видео/Python.md",
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Содеражание.md",
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Словарь.md",
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Первое приложение asyncio.md",
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Заметки.md",
+    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Микросервисы/Сервера.md",
-    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Учёба/Stepic/Микросервисы/FastAPI.md",
     "Учёба/Stepic/Микросервисы/Makefile.md",
     "Учёба/Stepic/Микросервисы/Mock-тестирование.md",
@@ -220,12 +227,6 @@
     "Активное/Операционные системы.md",
     "Активное/Заметки.md",
     "Активное/Выполнить.md",
-    "Активное/Темы.md",
-    "Видео/Python.md",
-    "Видео/Образование.md",
-    "Учёба/Linux/Linux.md",
-    "АГУ/План подготовки.md",
-    "Ежедневник/2025-02-03.md",
     "Вложения/Механизм работы прерываний.png",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
