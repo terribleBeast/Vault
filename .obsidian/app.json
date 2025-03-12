@@ -6,5 +6,5 @@
   "attachmentFolderPath": "Вложения",
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
-  "showRibbon": true
+  "showRibbon": false
 }
