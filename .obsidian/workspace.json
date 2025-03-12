@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "a13f10ca09059db8",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Week Planner"
+            }
+          },
+          {
             "id": "cb391d8e5a94cbb4",
             "type": "leaf",
             "state": {
@@ -190,12 +200,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +220,13 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": true
     }
   },
   "active": "9908882415d6d92d",
   "lastOpenFiles": [
+    "Ежедневник/2025-03-12.md",
+    "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Микросервисы/FastAPI.md",
     "Книги/Reviews/Git для профессионального программиста/заметки.md",
     "Книги/Reviews/Git для профессионального программиста/Содержание.md",
@@ -230,7 +241,6 @@
     "Словарь/GIL.md",
     "Видео/Python.md",
     "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
-    "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Микросервисы/Сервера.md",
     "Учёба/Stepic/Микросервисы/Makefile.md",
     "Учёба/Stepic/Микросервисы/Mock-тестирование.md",
@@ -242,7 +252,6 @@
     "Ежедневник/2025-03-07.md",
     "АГУ/Блокчейн/Лекции/Дерево Меркла.md",
     "АГУ/Лабы.md",
-    "Ежедневник/2025-03-05.md",
     "Вложения/Механизм работы прерываний.png",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
