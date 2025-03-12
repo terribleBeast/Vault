@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дом/На все.md",
+                "file": "Книги/Reviews/Git для профессионального программиста/заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "На все"
+              "title": "заметки"
             }
           },
           {
@@ -210,12 +210,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "9908882415d6d92d",
   "lastOpenFiles": [
+    "Книги/Reviews/Git для профессионального программиста/Содержание.md",
+    "Книги/Reviews/Git для профессионального программиста/заметки.md",
+    "Книги/Reviews/Git для профессионального программиста/1. Начало работы.md",
+    "Дом/На все.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Первое приложение asyncio.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Заметки.md",
@@ -239,9 +242,6 @@
     "АГУ/Блокчейн/Лекции/Дерево Меркла.md",
     "АГУ/Лабы.md",
     "Ежедневник/2025-03-05.md",
-    "Ежедневник/2025-03-04.md",
-    "Ежедневник/2025-03-03.md",
-    "Активное/Операционные системы.md",
     "Вложения/Механизм работы прерываний.png",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
