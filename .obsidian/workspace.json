@@ -220,18 +220,19 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cb391d8e5a94cbb4",
   "lastOpenFiles": [
-    "Учёба/Stepic/Микросервисы/Заметки.md",
+    "Активное/Недельные планы/2025-W11.md",
+    "Активное/Недельные планы/2025-W09.md",
     "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
+    "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Микросервисы/FastAPI.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Словарь.md",
     "Ежедневник/2025-03-12.md",
-    "Активное/Недельные планы/2025-W11.md",
-    "Активное/Недельные планы/2025-W09.md",
     "Книги/Reviews/Git для профессионального программиста/заметки.md",
     "Книги/Reviews/Git для профессионального программиста/Содержание.md",
     "Книги/Reviews/Git для профессионального программиста/1. Начало работы.md",
