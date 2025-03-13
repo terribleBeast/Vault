@@ -220,14 +220,14 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "cb391d8e5a94cbb4",
   "lastOpenFiles": [
-    "Учёба/Stepic/Микросервисы/FastAPI.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
+    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
+    "Учёба/Stepic/Микросервисы/FastAPI.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Словарь.md",
     "Ежедневник/2025-03-12.md",
     "Активное/Недельные планы/2025-W11.md",
@@ -243,7 +243,6 @@
     "Вложения/разница_между_конк_и_паралл.png",
     "Словарь/GIL.md",
     "Видео/Python.md",
-    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Учёба/Stepic/Микросервисы/Сервера.md",
     "Учёба/Stepic/Микросервисы/Makefile.md",
     "Учёба/Stepic/Микросервисы/Mock-тестирование.md",
