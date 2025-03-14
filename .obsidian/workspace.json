@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
+                "file": "Ежедневник/2025-03-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Первое знакомство с asyncio"
+              "title": "2025-03-14"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "b6e132d3f8f72be2",
   "lastOpenFiles": [
-    "Учёба/Stepic/Микросервисы/Заметки.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
+    "Учёба/Stepic/Микросервисы/Заметки.md",
     "Ежедневник/2025-03-14.md",
     "Учёба/Stepic/Python ООП.md",
     "Учёба/! lessons Stepic/Введение в ООП.md",
