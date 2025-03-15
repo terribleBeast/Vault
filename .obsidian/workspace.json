@@ -16,73 +16,8 @@
               "icon": "calendar-with-checkmark",
               "title": "Week Planner"
             }
-          },
-          {
-            "id": "cb391d8e5a94cbb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Первое знакомство с asyncio"
-            }
-          },
-          {
-            "id": "b6e132d3f8f72be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "АГУ/Компьютерные сети/лаба 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "лаба 1"
-            }
-          },
-          {
-            "id": "67b4e3aeca91e908",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Вложения/КС_лаб1_11.png"
-              },
-              "icon": "lucide-image",
-              "title": "КС_лаб1_11"
-            }
-          },
-          {
-            "id": "88277a4fa5f00e53",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Вложения/КС_лаб1_10.png"
-              },
-              "icon": "lucide-image",
-              "title": "КС_лаб1_10"
-            }
-          },
-          {
-            "id": "b48cb91237f5a6f6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Вложения/КС_лаб1_9.png"
-              },
-              "icon": "lucide-image",
-              "title": "КС_лаб1_9"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,20 +196,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6e132d3f8f72be2",
+  "active": "a13f10ca09059db8",
   "lastOpenFiles": [
-    "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
-    "Вложения/КС_лаб1_11.png",
-    "АГУ/Компьютерные сети/лаба 1.md",
-    "Вложения/КС_лаб1_10.png",
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
+    "АГУ/Компьютерные сети/лаба 2.md",
     "Вложения/КС_лаб1_9.png",
+    "Вложения/КС_лаб1_10.png",
+    "Вложения/КС_лаб1_11.png",
+    "Вложения/КС_лаб2_2.png",
+    "Вложения/КС_лаб2_1.png",
+    "АГУ/Компьютерные сети/лаба 1.md",
+    "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_8.png",
     "Вложения/КС_лаб1_7.png",
     "Вложения/КС_лаб1_6.png",
     "Вложения/КС_лаб1_3.png",
     "Вложения/КС_лаб1_5.png",
-    "Вложения/КС_лаб1_4.png",
-    "Вложения/КС_лаб1_1.png",
     "АГУ/React/Заметки.md",
     "АГУ/Без названия",
     "Без названия",
@@ -282,7 +219,6 @@
     "АГУ/React/Лабы.md",
     "АГУ/Лабы.md",
     "Ежедневник/2025-03-14.md",
-    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Python ООП.md",
     "Учёба/! lessons Stepic/Введение в ООП.md",
@@ -300,7 +236,6 @@
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Заметки.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Содеражание.md",
     "Словарь/GIL.md",
-    "Видео/Python.md",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
     "Учёба/Stepic/Без названия",
@@ -308,7 +243,6 @@
     "Учёба/Экономика",
     "Учёба/Python/Libs",
     "Учёба/FullStack/HTML",
-    "Учёба/FullStack",
     "Книги/Reviews/Без названия.canvas",
     "Без названия 1.canvas",
     "Без названия.canvas",
