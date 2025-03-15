@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "АГУ/React/Лабы.md",
+                "file": "АГУ/React/Заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лабы"
+              "title": "Заметки"
             }
           }
         ],
@@ -220,12 +220,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b6e132d3f8f72be2",
   "lastOpenFiles": [
+    "Вложения/Pasted image 20250315090935.png",
     "АГУ/React/Lab 2.md",
+    "АГУ/React/Заметки.md",
     "АГУ/React/Лабы.md",
     "АГУ/Лабы.md",
     "Ежедневник/2025-03-14.md",
@@ -250,8 +253,6 @@
     "Словарь/GIL.md",
     "Видео/Python.md",
     "Учёба/Stepic/Микросервисы/Сервера.md",
-    "Учёба/Stepic/Микросервисы/Makefile.md",
-    "Учёба/Stepic/Микросервисы/Mock-тестирование.md",
     "Вложения/Механизм работы прерываний.png",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
