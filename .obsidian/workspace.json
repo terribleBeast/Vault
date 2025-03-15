@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "88277a4fa5f00e53",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/КС_лаб1_10.png"
+              },
+              "icon": "lucide-image",
+              "title": "КС_лаб1_10"
+            }
+          },
+          {
             "id": "b48cb91237f5a6f6",
             "type": "leaf",
             "state": {
@@ -233,13 +245,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b6e132d3f8f72be2",
   "lastOpenFiles": [
-    "Вложения/КС_лаб1_9.png",
+    "Вложения/КС_лаб1_10.png",
     "АГУ/Компьютерные сети/лаба 1.md",
+    "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_8.png",
     "Вложения/КС_лаб1_7.png",
     "Вложения/КС_лаб1_6.png",
@@ -251,7 +265,6 @@
     "АГУ/React/Заметки.md",
     "АГУ/Без названия",
     "Без названия",
-    "Вложения/Pasted image 20250315090935.png",
     "АГУ/React/Lab 2.md",
     "АГУ/React/Лабы.md",
     "АГУ/Лабы.md",
