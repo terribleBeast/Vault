@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "67b4e3aeca91e908",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/КС_лаб1_11.png"
+              },
+              "icon": "lucide-image",
+              "title": "КС_лаб1_11"
+            }
+          },
+          {
             "id": "88277a4fa5f00e53",
             "type": "leaf",
             "state": {
@@ -245,14 +257,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "b6e132d3f8f72be2",
   "lastOpenFiles": [
-    "Вложения/КС_лаб1_10.png",
+    "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
+    "Вложения/КС_лаб1_11.png",
     "АГУ/Компьютерные сети/лаба 1.md",
+    "Вложения/КС_лаб1_10.png",
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_8.png",
     "Вложения/КС_лаб1_7.png",
@@ -261,7 +274,6 @@
     "Вложения/КС_лаб1_5.png",
     "Вложения/КС_лаб1_4.png",
     "Вложения/КС_лаб1_1.png",
-    "Вложения/КС_лаб1_2.png",
     "АГУ/React/Заметки.md",
     "АГУ/Без названия",
     "Без названия",
