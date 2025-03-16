@@ -18,15 +18,17 @@
             }
           },
           {
-            "id": "8bb21a479bbfed33",
+            "id": "b283309bd27d8127",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "АГУ/Компьютерные сети/Ковалено_лаб1.pdf"
+                "file": "Активное/Недельные планы/2025-W09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ковалено_лаб1"
+              "icon": "lucide-file",
+              "title": "2025-W09"
             }
           }
         ],
@@ -189,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,11 +206,15 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c8ff8674d77d6763",
+  "active": "b283309bd27d8127",
   "lastOpenFiles": [
+    "Активное/Темы.md",
+    "Ежедневник/2025-03-14.md",
+    "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "АГУ/Компьютерные сети/Заметки.md",
     "АГУ/Компьютерные сети/лаба 1.md",
     "АГУ/Компьютерные сети/лаба 2.md",
@@ -219,7 +224,6 @@
     "Вложения/КС_лаб1_11.png",
     "Вложения/КС_лаб2_2.png",
     "Вложения/КС_лаб2_1.png",
-    "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_8.png",
     "Вложения/КС_лаб1_7.png",
     "Вложения/КС_лаб1_6.png",
@@ -231,7 +235,6 @@
     "АГУ/React/Lab 2.md",
     "АГУ/React/Лабы.md",
     "АГУ/Лабы.md",
-    "Ежедневник/2025-03-14.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Python ООП.md",
     "Учёба/! lessons Stepic/Введение в ООП.md",
@@ -248,7 +251,6 @@
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Первое приложение asyncio.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Заметки.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/Содеражание.md",
-    "Словарь/GIL.md",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
     "Учёба/Stepic/Без названия",
