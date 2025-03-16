@@ -14,5 +14,6 @@
   "obsidian-git",
   "periodic-notes",
   "dataview",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "obsidian-regex-replace"
 ]
