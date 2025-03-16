@@ -1,5 +1,5 @@
 {
-  "findText": ". - .#flashcard",
+  "findText": "!*!",
   "replaceText": "Блабла",
   "useRegEx": true,
   "selOnly": false,

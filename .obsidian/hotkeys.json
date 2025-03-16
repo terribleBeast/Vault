@@ -106,5 +106,13 @@
       ],
       "key": "6"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
   ]
 }
