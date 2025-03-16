@@ -21,14 +21,12 @@
             "id": "8bb21a479bbfed33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "АГУ/Компьютерные сети/Заметки.md",
-                "mode": "source",
-                "source": false
+                "file": "АГУ/Компьютерные сети/Ковалено_лаб1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Заметки"
+              "icon": "lucide-file-text",
+              "title": "Ковалено_лаб1"
             }
           }
         ],
@@ -210,10 +208,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8bb21a479bbfed33",
+  "active": "c8ff8674d77d6763",
   "lastOpenFiles": [
-    "АГУ/Компьютерные сети/лаба 1.md",
     "АГУ/Компьютерные сети/Заметки.md",
+    "АГУ/Компьютерные сети/лаба 1.md",
     "АГУ/Компьютерные сети/лаба 2.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "Вложения/КС_лаб1_9.png",
