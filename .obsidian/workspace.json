@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
+                "file": "Учёба/Гуманка/Цитаты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Содержание_Микросервисы"
+              "title": "Цитаты"
             }
           }
         ],
@@ -231,11 +231,14 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e50eff3711bce6cb",
   "lastOpenFiles": [
+    "Обо всем/Цитаты.md",
+    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Ежедневник/2025-03-17.md",
     "Ежедневник/2025-03-15.md",
     "Учёба/Stepic/Асинхронность_Python/Без названия.md",
@@ -273,8 +276,6 @@
     "АГУ/React/Lab 2.md",
     "АГУ/React/Лабы.md",
     "АГУ/Лабы.md",
-    "Учёба/Stepic/Микросервисы/Заметки.md",
-    "Учёба/Stepic/Python ООП.md",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
     "Учёба/Stepic/Без названия",
