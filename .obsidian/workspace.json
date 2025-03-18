@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Stepic/Асинхронность_Python/Без названия.md",
+                "file": "АГУ/Теория автоматов и формальных языков/Заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Заметки"
             }
           }
         ],
@@ -229,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,8 +250,8 @@
   },
   "active": "20e8ac6b2bc59aa9",
   "lastOpenFiles": [
-    "Учёба/Stepic/Асинхронность_Python/Словарь.md",
     "Учёба/Stepic/Асинхронность_Python/Без названия.md",
+    "Учёба/Stepic/Асинхронность_Python/Словарь.md",
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Ежедневник/2025-03-18.md",
     "АГУ/EcoData.md",
