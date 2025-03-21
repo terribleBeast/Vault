@@ -15,5 +15,6 @@
   "periodic-notes",
   "dataview",
   "obsidian-to-anki-plugin",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-auto-link-title"
 ]
