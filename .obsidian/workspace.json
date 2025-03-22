@@ -207,12 +207,13 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "periodic-notes:Open today": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
+    "АГУ/React/Лабы.md",
+    "АГУ/React/Заметки.md",
     "Блокнот.md",
     "АГУ/Теория автоматов и формальных языков/Заметки.md",
     "Активное/Темы.md",
@@ -241,8 +242,6 @@
     "Книги/Читаю.md",
     "Книги/IT.md",
     "Активное/Недельные планы/2025-W11.md",
-    "Учёба/Stepic/Микросервисы/Заметки.md",
-    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_10.png",
