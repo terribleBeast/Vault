@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "ОС"
             }
+          },
+          {
+            "id": "df5aa3c1fea296ac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/System_calls_and_drivers.png"
+              },
+              "icon": "lucide-image",
+              "title": "System_calls_and_drivers"
+            }
           }
         ]
       }
@@ -202,8 +214,9 @@
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
-    "Словарь/Прерывание.md",
+    "Вложения/System_calls_and_drivers.png",
     "Видео/ОС.md",
+    "Словарь/Прерывание.md",
     "Словарь/Поток.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "АГУ/ML/курс.md",
@@ -230,7 +243,6 @@
     "Учёба/! lessons Stepic/Введение в ООП.md",
     "Учёба/! lessons Stepic/Аннотации типов.md",
     "Учёба/! lessons Stepic/Атрибуты, свойства и методы.md",
-    "Учёба/! lessons Stepic/Без названия.md",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_10.png",
@@ -239,7 +251,6 @@
     "Вложения/КС_лаб2_1.png",
     "Вложения/КС_лаб1_8.png",
     "Вложения/КС_лаб1_7.png",
-    "Вложения/КС_лаб1_6.png",
     "АГУ/Без названия",
     "Без названия",
     "АГУ/React",
