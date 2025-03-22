@@ -8,87 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a13f10ca09059db8",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Week Planner"
-            }
-          },
-          {
-            "id": "b283309bd27d8127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневник/2025-03-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-15"
-            }
-          },
-          {
-            "id": "20e8ac6b2bc59aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Активное/Недельные планы/2025-W11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-W11"
-            }
-          },
-          {
-            "id": "94668b0a0437304c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Stepic/Асинхронность_Python/Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "ade56f1eb2a92647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Stepic/Python ООП.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python ООП"
-            }
-          },
-          {
             "id": "cc1141cf7fe80b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "АГУ/Администрирование баз данных.md",
+                "file": "Книги/Reviews/Операционные системы/заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Администрирование баз данных"
+              "title": "заметки"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,17 +196,22 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
-    "Вложения/autoVacuum_pgSQL.png",
-    "АГУ/Администрирование баз данных.md",
-    "АГУ/Лабы.md",
-    "Книги/Reviews/Операционные системы/Обзор компьютерной системы.md",
-    "Книги/Reviews/Операционные системы/Основные элементы.md",
+    "Книги/Reviews/Операционные системы/Без названия.md",
+    "Книги/Reviews/Операционные системы/заметки.md",
     "Книги/Reviews/Операционные системы/Словарь.md",
+    "Книги/Reviews/Операционные системы/Основные элементы.md",
+    "Книги/Reviews/Операционные системы/Операционные системы.pdf",
+    "Книги/Reviews/Операционные системы/Обзор компьютерной системы.md",
+    "Активное/Операционные системы.md",
+    "АГУ/Администрирование баз данных.md",
+    "Вложения/autoVacuum_pgSQL.png",
+    "АГУ/Лабы.md",
     "Книги/Reviews/Операционные системы/Содержание. Операционные системы.md",
     "Учёба/Stepic/Асинхронность_Python/Без названия.md",
     "Вложения/GIL2.png",
@@ -293,8 +231,6 @@
     "АГУ/Теория автоматов и формальных языков/Заметки.md",
     "АГУ/План подготовки.md",
     "АГУ/EcoData.md",
-    "Ежедневник/2025-03-15.md",
-    "Учёба/Stepic/Python для профессионалов.md",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_10.png",
@@ -306,7 +242,6 @@
     "Вложения/КС_лаб1_6.png",
     "АГУ/Без названия",
     "Без названия",
-    "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/React",
     "Учёба/Stepic/Без названия",
     "АГУ/Компьютерные сети",
