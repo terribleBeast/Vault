@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "АГУ/Теория автоматов и формальных языков/Заметки.md",
+                "file": "Блокнот.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки"
+              "title": "Блокнот"
             }
           },
           {
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "АГУ/Теория автоматов и формальных языков/Заметки.md",
+                "file": "Блокнот.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Заметки"
+              "title": "Обратные ссылки для Блокнот"
             }
           },
           {
@@ -207,11 +207,13 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
+    "АГУ/Теория автоматов и формальных языков/Заметки.md",
     "Активное/Темы.md",
     "Активное/Заметки.md",
     "Видео/ОС.md",
@@ -241,7 +243,6 @@
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Учёба/Stepic/Python ООП.md",
-    "Учёба/! lessons Stepic/Введение в ООП.md",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_10.png",
