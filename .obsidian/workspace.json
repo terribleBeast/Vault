@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Видео/ОС.md",
+                "file": "АГУ/Теория автоматов и формальных языков/Заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОС"
+              "title": "Заметки"
             }
           },
           {
@@ -85,8 +85,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Видео/ОС.md",
+                "file": "АГУ/Теория автоматов и формальных языков/Заметки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ОС"
+              "title": "Обратные ссылки для Заметки"
             }
           },
           {
@@ -208,13 +207,16 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
-    "Статьи/Poetry.md",
+    "Активное/Темы.md",
+    "Активное/Заметки.md",
     "Видео/ОС.md",
+    "Статьи/Poetry.md",
     "Вложения/System_calls_and_drivers.png",
     "Словарь/Прерывание.md",
     "Словарь/Поток.md",
@@ -241,8 +243,6 @@
     "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Учёба/Stepic/Python ООП.md",
     "Учёба/! lessons Stepic/Введение в ООП.md",
-    "Учёба/! lessons Stepic/Аннотации типов.md",
-    "Учёба/! lessons Stepic/Атрибуты, свойства и методы.md",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_10.png",
