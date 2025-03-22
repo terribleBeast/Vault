@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Словарь/Прерывание.md",
+                "file": "Видео/ОС.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прерывание"
+              "title": "ОС"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Словарь/Прерывание.md",
+                "file": "Видео/ОС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Прерывание"
+              "title": "Обратные ссылки для ОС"
             }
           },
           {
@@ -202,6 +202,7 @@
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
+    "Словарь/Прерывание.md",
     "Видео/ОС.md",
     "Словарь/Поток.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
@@ -230,7 +231,6 @@
     "Учёба/! lessons Stepic/Аннотации типов.md",
     "Учёба/! lessons Stepic/Атрибуты, свойства и методы.md",
     "Учёба/! lessons Stepic/Без названия.md",
-    "Без названия.md",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_10.png",
