@@ -213,8 +213,9 @@
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
-    "Учёба/English/Books.md",
+    "Учёба/English/переводы/промт.md",
     "Учёба/English/переводы/Без названия.md",
+    "Учёба/English/Books.md",
     "Учёба/English/переводы",
     "Учёба/English/Briefly.md",
     "Учёба/English/Notes.md",
@@ -240,7 +241,6 @@
     "Словарь/Поток.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "АГУ/ML/курс.md",
-    "Книги/Reviews/Операционные системы/заметки.md",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "Вложения/autoVacuum_pgSQL.png",
     "Вложения/GIL2.png",
