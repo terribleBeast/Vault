@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/English/Briefly.md",
+                "file": "Учёба/English/Grammatic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Briefly"
+              "title": "Grammatic"
             }
           },
           {
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учёба/English/Briefly.md",
+                "file": "Учёба/English/Grammatic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Briefly"
+              "title": "Обратные ссылки для Grammatic"
             }
           },
           {
@@ -220,7 +220,7 @@
     "Учёба/English/переводы/Без названия.md",
     "Учёба/English/переводы/промт.md",
     "Учёба/English/переводы",
-    "Учёба/English/Briefly.md",
+    "Учёба/English/Grammatic.md",
     "Учёба/English/Notes.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
