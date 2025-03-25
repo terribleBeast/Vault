@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "1. Первое знакомство с asyncio"
             }
-          },
-          {
-            "id": "df5aa3c1fea296ac",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Вложения/System_calls_and_drivers.png"
-              },
-              "icon": "lucide-image",
-              "title": "System_calls_and_drivers"
-            }
           }
         ]
       }
@@ -89,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "99e3adda9f630852",
@@ -191,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,14 +197,15 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "periodic-notes:Open today": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
-    "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
+    "Вложения/race_condition.png",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
+    "Вложения/System_calls_and_drivers.png",
+    "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Учёба/Stepic/Асинхронность_Python/Без названия.md",
     "Summer.md",
     "toStudy.md",
@@ -242,8 +233,6 @@
     "АГУ/React/Заметки.md",
     "АГУ/React/Лабы.md",
     "Блокнот.md",
-    "АГУ/Теория автоматов и формальных языков/Заметки.md",
-    "Вложения/System_calls_and_drivers.png",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "Вложения/autoVacuum_pgSQL.png",
     "Вложения/GIL2.png",
@@ -251,7 +240,6 @@
     "Вложения/КС_лаб1_9.png",
     "Вложения/КС_лаб1_10.png",
     "Вложения/КС_лаб1_11.png",
-    "Вложения/КС_лаб2_2.png",
     "АГУ/Без названия",
     "Без названия",
     "АГУ/React",
