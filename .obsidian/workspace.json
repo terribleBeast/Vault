@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/English/Grammatic.md",
+                "file": "Учёба/English/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammatic"
+              "title": "Books"
             }
           },
           {
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учёба/English/Grammatic.md",
+                "file": "Учёба/English/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Grammatic"
+              "title": "Обратные ссылки для Books"
             }
           },
           {
@@ -207,24 +207,25 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "periodic-notes:Open today": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "cc1141cf7fe80b30",
   "lastOpenFiles": [
+    "Учёба/English/Notes.md",
+    "Speak out.md",
+    "Учёба/English/Books.md",
+    "Fundamentals of English Grammar.md",
+    "Учёба/English/Grammatic.md",
     "Вложения/_kur_lang_art_img_985.jpg",
     "Вложения/tense_table 1.png",
     "Вложения/tense_table.png",
-    "Учёба/English/Grammatic.md",
-    "Учёба/English/Books.md",
     "Учёба/English/Проработать.md",
     "Учёба/English/Results.md",
     "Учёба/English/Sourses.md",
     "Учёба/English/переводы/Без названия.md",
     "Учёба/English/переводы/промт.md",
     "Учёба/English/переводы",
-    "Учёба/English/Notes.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Учёба/Stepic/Микросервисы/FastAPI.md",
@@ -242,7 +243,6 @@
     "Статьи/Poetry.md",
     "Вложения/System_calls_and_drivers.png",
     "Словарь/Прерывание.md",
-    "Словарь/Поток.md",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "Вложения/autoVacuum_pgSQL.png",
     "Вложения/GIL2.png",
@@ -251,7 +251,6 @@
     "Вложения/КС_лаб1_10.png",
     "Вложения/КС_лаб1_11.png",
     "Вложения/КС_лаб2_2.png",
-    "Вложения/КС_лаб2_1.png",
     "АГУ/Без названия",
     "Без названия",
     "АГУ/React",
