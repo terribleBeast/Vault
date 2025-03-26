@@ -114,6 +114,8 @@ poetry env use python
 > Замените `python` на конкретную версию Python, если это необходимо (например, `python3.8, python3.11, python3.12`).
 
 
+
+
 ---
 ## Ресурсы:
 1) 
