@@ -25,12 +25,14 @@
             "id": "6a727987517109f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Вложения/tense_table.png"
+                "file": "Учёба/Stepic/Асинхронность_Python/Без названия.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "tense_table"
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           }
         ],
@@ -209,11 +211,14 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "6a727987517109f6",
   "lastOpenFiles": [
+    "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
+    "Вложения/tense_table.png",
     "Учёба/English/Grammatic.md",
     "Статьи/Poetry.md",
     "Учёба/Stepic/Асинхронность_Python/Без названия.md",
@@ -230,7 +235,6 @@
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "Вложения/race_condition.png",
     "Вложения/System_calls_and_drivers.png",
-    "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Summer.md",
     "toStudy.md",
     "Speak out.md",
@@ -239,12 +243,10 @@
     "Учёба/English/Notes.md",
     "Вложения/_kur_lang_art_img_985.jpg",
     "Вложения/tense_table 1.png",
-    "Вложения/tense_table.png",
     "Учёба/English/Проработать.md",
     "Учёба/English/Results.md",
     "Учёба/English/Sourses.md",
     "Учёба/English/переводы/Без названия.md",
-    "Учёба/English/переводы/промт.md",
     "Учёба/English/переводы",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "Вложения/autoVacuum_pgSQL.png",
