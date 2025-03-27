@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "98aa9fd4865399cb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/transaction.png"
+              },
+              "icon": "lucide-image",
+              "title": "transaction"
+            }
+          },
+          {
             "id": "86c257caa790cb1f",
             "type": "leaf",
             "state": {
@@ -245,8 +257,9 @@
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
-    "АГУ/Администрирование баз данных.md",
+    "Вложения/transaction.png",
     "АГУ/АБД/Архитектура. Общее устройство pgSQL.md",
+    "АГУ/Администрирование баз данных.md",
     "АГУ/АБД",
     "Учёба/Stepic/Асинхронность_Python/Конспект.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
@@ -279,11 +292,9 @@
     "Вложения/tense_table 1.png",
     "Учёба/English/Проработать.md",
     "Учёба/English/Results.md",
-    "Учёба/English/Sourses.md",
     "Учёба/English/переводы",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "Вложения/autoVacuum_pgSQL.png",
-    "Вложения/GIL2.png",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Без названия",
     "АГУ/React",
