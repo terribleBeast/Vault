@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Grammatic"
             }
+          },
+          {
+            "id": "6a727987517109f6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/tense_table.png"
+              },
+              "icon": "lucide-image",
+              "title": "tense_table"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,12 +209,12 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "periodic-notes:Open today": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "cc1141cf7fe80b30",
+  "active": "6a727987517109f6",
   "lastOpenFiles": [
+    "Учёба/English/Grammatic.md",
     "Статьи/Poetry.md",
     "Учёба/Stepic/Асинхронность_Python/Без названия.md",
     "Учёба/Stepic/Микросервисы/Pydantic.md",
@@ -224,7 +237,6 @@
     "Fundamentals of English Grammar.md",
     "Учёба/English/Books.md",
     "Учёба/English/Notes.md",
-    "Учёба/English/Grammatic.md",
     "Вложения/_kur_lang_art_img_985.jpg",
     "Вложения/tense_table 1.png",
     "Вложения/tense_table.png",
