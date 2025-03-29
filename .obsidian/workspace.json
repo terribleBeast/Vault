@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Активное/Узнать.md",
+                "file": "Статьи/Модель OSI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Узнать"
+              "title": "Модель OSI"
             }
           },
           {
@@ -227,15 +227,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c8ff8674d77d6763",
+  "active": "90da860e9f7ae349",
   "lastOpenFiles": [
+    "Активное/Узнать.md",
+    "Статьи/Модель OSI.md",
     "Активное/Темы.md",
     "Учёба/Статьи.md",
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Видео/ОС.md",
     "Книги/Reviews/Операционные системы/Общий словарь.md",
     "Книги/Reviews/Операционные системы/Ресурсы.md",
-    "Активное/Узнать.md",
     "Активное/Заметки.md",
     "Люди/Кирилл Мокевнин.md",
     "Люди/Кирилл Кринкин.md",
@@ -259,7 +260,6 @@
     "Вложения/transaction.png",
     "АГУ/Администрирование баз данных.md",
     "АГУ/АБД",
-    "Учёба/Stepic/Асинхронность_Python/Конспект.md",
     "shema_asyncio.png",
     "Вложения/shema_asyncio.png",
     "Вложения/shema_async.png",
