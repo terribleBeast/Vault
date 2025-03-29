@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Статьи.md",
+                "file": "Активное/Узнать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статьи"
+              "title": "Узнать"
             }
           },
           {
@@ -227,8 +227,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90da860e9f7ae349",
+  "active": "c8ff8674d77d6763",
   "lastOpenFiles": [
+    "Активное/Темы.md",
+    "Учёба/Статьи.md",
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Видео/ОС.md",
     "Книги/Reviews/Операционные системы/Общий словарь.md",
@@ -258,8 +260,6 @@
     "АГУ/Администрирование баз данных.md",
     "АГУ/АБД",
     "Учёба/Stepic/Асинхронность_Python/Конспект.md",
-    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
-    "Учёба/English/Grammatic.md",
     "shema_asyncio.png",
     "Вложения/shema_asyncio.png",
     "Вложения/shema_async.png",
