@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Активное/Узнать.md",
+                "file": "Учёба/English/переводы/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Узнать"
+              "title": "Без названия"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,9 +202,9 @@
   },
   "active": "6a727987517109f6",
   "lastOpenFiles": [
+    "Активное/Узнать.md",
     "Статьи/Модель OSI.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
-    "Активное/Узнать.md",
     "Вложения/model_osi.png",
     "Вложения/memory_organisation.png",
     "Активное/Темы.md",
