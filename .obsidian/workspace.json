@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Видео/ОС.md",
+                "file": "Книги/Reviews/Операционные системы/Ресурсы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОС"
+              "title": "Ресурсы"
             }
           },
           {
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "99e3adda9f630852",
@@ -224,13 +223,20 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
-    "Вложения/memory_organisation.png",
+    "Активное/Узнать.md",
+    "Книги/Reviews/Операционные системы/Ресурсы.md",
+    "Активное/Заметки.md",
+    "Люди/Кирилл Мокевнин.md",
+    "Люди/Кирилл Кринкин.md",
     "Видео/ОС.md",
+    "Люди",
+    "Вложения/memory_organisation.png",
     "Вложения/switch_context.png",
     "Видео/Python.md",
     "Видео/Образование.md",
@@ -258,17 +264,12 @@
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Вложения/tense_table.png",
     "Статьи/Poetry.md",
-    "АГУ/React/Лабы.md",
-    "АГУ/React/Lab 2.md",
-    "АГУ/React/Заметки.md",
     "Вложения/race_condition.png",
     "Вложения/System_calls_and_drivers.png",
-    "Summer.md",
     "Вложения/_kur_lang_art_img_985.jpg",
     "Учёба/English/переводы",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
-    "Без названия",
     "АГУ/React",
     "Учёба/Stepic/Без названия",
     "АГУ/Компьютерные сети",
