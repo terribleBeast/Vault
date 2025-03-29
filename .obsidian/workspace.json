@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Модель OSI.md",
+                "file": "Активное/Узнать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель OSI"
+              "title": "Узнать"
             }
           }
         ],
@@ -88,7 +88,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -211,13 +212,14 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
-    "Вложения/model_osi.png",
     "Статьи/Модель OSI.md",
+    "Вложения/model_osi.png",
     "Вложения/memory_organisation.png",
     "Активное/Узнать.md",
     "Активное/Темы.md",
