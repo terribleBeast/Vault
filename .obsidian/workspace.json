@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "99e3adda9f630852",
@@ -203,6 +202,8 @@
   },
   "active": "6a727987517109f6",
   "lastOpenFiles": [
+    "Учёба/English/переводы/промт.md",
+    "Учёба/English/переводы/Без названия.md",
     "Активное/Узнать.md",
     "Статьи/Модель OSI.md",
     "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
@@ -231,7 +232,6 @@
     "Учёба/Stepic/Микросервисы/Ссылки.md",
     "Учёба/Stepic/Микросервисы/Pydantic.md",
     "Учёба/Stepic/Микросервисы/Mock-тестирование.md",
-    "Учёба/Stepic/Микросервисы/Makefile.md",
     "Вложения/transaction.png",
     "АГУ/АБД",
     "shema_asyncio.png",
