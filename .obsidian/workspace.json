@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "ОС"
             }
+          },
+          {
+            "id": "6b0d93093fce3fbc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/memory_organisation.png"
+              },
+              "icon": "lucide-image",
+              "title": "memory_organisation"
+            }
           }
         ],
         "currentTab": 1
@@ -92,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "99e3adda9f630852",
@@ -217,8 +230,9 @@
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
-    "Вложения/switch_context.png",
+    "Вложения/memory_organisation.png",
     "Видео/ОС.md",
+    "Вложения/switch_context.png",
     "Видео/Python.md",
     "Видео/Образование.md",
     "Учёба/Stepic/Микросервисы/Изучение доки.md",
@@ -252,7 +266,6 @@
     "Вложения/System_calls_and_drivers.png",
     "Summer.md",
     "Вложения/_kur_lang_art_img_985.jpg",
-    "Вложения/tense_table 1.png",
     "Учёба/English/переводы",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
