@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Stepic/Микросервисы/Изучение доки.md",
+                "file": "Видео/ОС.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Изучение доки"
+              "title": "ОС"
             }
           },
           {
@@ -251,13 +251,17 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
-    "Учёба/Stepic/Микросервисы/Заметки.md",
+    "Видео/Python.md",
+    "Видео/ОС.md",
+    "Видео/Образование.md",
     "Учёба/Stepic/Микросервисы/Изучение доки.md",
+    "Учёба/Stepic/Микросервисы/Заметки.md",
     "Проекты/Pet-проекты.md",
     "Блокнот.md",
     "Учёба/Stepic/Микросервисы/Ссылки.md",
@@ -287,9 +291,6 @@
     "Вложения/System_calls_and_drivers.png",
     "Summer.md",
     "toStudy.md",
-    "Speak out.md",
-    "Fundamentals of English Grammar.md",
-    "Учёба/English/Books.md",
     "Вложения/_kur_lang_art_img_985.jpg",
     "Вложения/tense_table 1.png",
     "Учёба/English/переводы",
