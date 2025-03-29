@@ -34,18 +34,6 @@
               "icon": "lucide-file",
               "title": "Модель OSI"
             }
-          },
-          {
-            "id": "6b0d93093fce3fbc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Вложения/memory_organisation.png"
-              },
-              "icon": "lucide-image",
-              "title": "memory_organisation"
-            }
           }
         ],
         "currentTab": 1
@@ -229,9 +217,16 @@
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
-    "Активное/Узнать.md",
+    "Вложения/model_osi.png",
     "Статьи/Модель OSI.md",
+    "Вложения/memory_organisation.png",
+    "Активное/Узнать.md",
     "Активное/Темы.md",
+    "Общее/Всякое.md",
+    "Книги/Читаю.md",
+    "Блокнот.md",
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
+    "Активное/Без названия.md",
     "Учёба/Статьи.md",
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Видео/ОС.md",
@@ -241,24 +236,17 @@
     "Люди/Кирилл Мокевнин.md",
     "Люди/Кирилл Кринкин.md",
     "Люди",
-    "Вложения/memory_organisation.png",
     "Вложения/switch_context.png",
     "Видео/Python.md",
     "Видео/Образование.md",
     "Учёба/Stepic/Микросервисы/Изучение доки.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Проекты/Pet-проекты.md",
-    "Блокнот.md",
     "Учёба/Stepic/Микросервисы/Ссылки.md",
     "Учёба/Stepic/Микросервисы/Pydantic.md",
     "Учёба/Stepic/Микросервисы/Mock-тестирование.md",
     "Учёба/Stepic/Микросервисы/Makefile.md",
-    "Учёба/Stepic/Микросервисы/FastAPI.md",
-    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
-    "Учёба/Stepic/Микросервисы/Сервера.md",
-    "АГУ/АБД/Архитектура. Общее устройство pgSQL.md",
     "Вложения/transaction.png",
-    "АГУ/Администрирование баз данных.md",
     "АГУ/АБД",
     "shema_asyncio.png",
     "Вложения/shema_asyncio.png",
@@ -266,7 +254,6 @@
     "Вложения/tense_table.png",
     "Вложения/race_condition.png",
     "Вложения/System_calls_and_drivers.png",
-    "Вложения/_kur_lang_art_img_985.jpg",
     "Учёба/English/переводы",
     "Книги/Reviews/Операционные системы/Операционные системы.pdf",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
