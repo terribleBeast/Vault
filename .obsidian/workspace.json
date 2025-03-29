@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
+                "file": "Учёба/Статьи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ресурсы"
+              "title": "Статьи"
             }
           },
           {
@@ -223,11 +223,13 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
+    "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Видео/ОС.md",
     "Книги/Reviews/Операционные системы/Общий словарь.md",
     "Книги/Reviews/Операционные системы/Ресурсы.md",
@@ -261,7 +263,6 @@
     "shema_asyncio.png",
     "Вложения/shema_asyncio.png",
     "Вложения/shema_async.png",
-    "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Вложения/tense_table.png",
     "Вложения/race_condition.png",
     "Вложения/System_calls_and_drivers.png",
