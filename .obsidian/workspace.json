@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
+                "file": "Статьи/Модель OSI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Первое знакомство с asyncio"
+              "title": "Модель OSI"
             }
           }
         ]
@@ -203,6 +203,7 @@
   },
   "active": "6a727987517109f6",
   "lastOpenFiles": [
+    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "Активное/Узнать.md",
     "Статьи/Модель OSI.md",
     "Вложения/model_osi.png",
@@ -211,7 +212,6 @@
     "Общее/Всякое.md",
     "Книги/Читаю.md",
     "Блокнот.md",
-    "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
     "Активное/Без названия.md",
     "Учёба/Статьи.md",
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
