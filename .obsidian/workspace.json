@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Видео/ОС.md",
+                "file": "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОС"
+              "title": "Ресурсы"
             }
           },
           {
@@ -223,14 +223,13 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "periodic-notes:Open today": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "90da860e9f7ae349",
   "lastOpenFiles": [
-    "Книги/Reviews/Операционные системы/Общий словарь.md",
     "Видео/ОС.md",
+    "Книги/Reviews/Операционные системы/Общий словарь.md",
     "Книги/Reviews/Операционные системы/Ресурсы.md",
     "Активное/Узнать.md",
     "Активное/Заметки.md",
