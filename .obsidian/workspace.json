@@ -22,7 +22,31 @@
             }
           },
           {
-            "id": "6a727987517109f6",
+            "id": "3bd4184c63bfd007",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Week Planner"
+            }
+          },
+          {
+            "id": "25d57906f8b2854c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневник/2025-04-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-01"
+            }
+          },
+          {
+            "id": "db9ce2a3a74733d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,19 +58,9 @@
               "icon": "lucide-file",
               "title": "2025-03-31"
             }
-          },
-          {
-            "id": "0dabed46cd4e933b",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Week Planner"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ежедневник/2024-12-26.md"
+                "file": "Ежедневник/2025-03-31.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 2024-12-26"
+              "title": "Структура 2025-03-31"
             }
           },
           {
@@ -189,16 +203,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Day Planner Timeline"
-            }
-          },
-          {
-            "id": "4ceb9e2053351ee7",
-            "type": "leaf",
-            "state": {
-              "type": "daily-note-calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
             }
           }
         ],
@@ -226,11 +230,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0dabed46cd4e933b",
+  "active": "db9ce2a3a74733d2",
   "lastOpenFiles": [
     "Активное/Недельные планы/2025-W14.md",
     "Ежедневник/2025-03-31.md",
+    "Ежедневник/2025-04-01.md",
     "Ежедневник/2025-03-30.md",
+    "Учёба/Stepic/Асинхронность_Python/Конспект.md",
+    "Словарь/Корутина.md",
     "Активное/Узнать.md",
     "Активное/Темы.md",
     "Учёба/Stepic/Микросервисы/Изучение доки.md",
@@ -253,9 +260,6 @@
     "Учёба/Статьи.md",
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Книги/Reviews/Операционные системы/Общий словарь.md",
-    "Книги/Reviews/Операционные системы/Ресурсы.md",
-    "Активное/Заметки.md",
-    "Люди/Кирилл Мокевнин.md",
     "Люди",
     "Вложения/switch_context.png",
     "Вложения/transaction.png",
