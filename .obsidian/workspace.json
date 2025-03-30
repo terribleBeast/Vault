@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Хочу прочесть.md",
+                "file": "Ежедневник/2025-03-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хочу прочесть"
+              "title": "2025-03-30"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги/Reviews/Asyncio_и_конкурентное_программирование_Python/1. Первое знакомство с asyncio.md",
+                "file": "Ежедневник/2025-03-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 1. Первое знакомство с asyncio"
+              "title": "Обратные ссылки для 2025-03-30"
             }
           },
           {
@@ -175,12 +175,12 @@
               "title": "Плагин больше не активен"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +196,14 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "6a727987517109f6",
   "lastOpenFiles": [
+    "Книги/Хочу прочесть.md",
+    "Ежедневник/2025-03-30.md",
     "Активное/Узнать.md",
     "Активное/Темы.md",
     "Учёба/English/переводы/Без названия.md",
@@ -229,8 +232,6 @@
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Проекты/Pet-проекты.md",
     "Учёба/Stepic/Микросервисы/Ссылки.md",
-    "Учёба/Stepic/Микросервисы/Pydantic.md",
-    "Учёба/Stepic/Микросервисы/Mock-тестирование.md",
     "Вложения/transaction.png",
     "АГУ/АБД",
     "shema_asyncio.png",
