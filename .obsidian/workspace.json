@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Активное/Узнать.md",
-                "mode": "source",
+                "file": "Видео/ОС.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Узнать"
+              "title": "ОС"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,15 +196,15 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "periodic-notes:Open today": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "6a727987517109f6",
   "lastOpenFiles": [
+    "Видео/Образование.md",
+    "Активное/Узнать.md",
     "Ежедневник/2025-03-30.md",
     "Книги/Хочу прочесть.md",
-    "Активное/Узнать.md",
     "Активное/Темы.md",
     "Учёба/English/переводы/Без названия.md",
     "Учёба/English/переводы/промт.md",
@@ -228,7 +227,6 @@
     "Люди",
     "Вложения/switch_context.png",
     "Видео/Python.md",
-    "Видео/Образование.md",
     "Учёба/Stepic/Микросервисы/Изучение доки.md",
     "Учёба/Stepic/Микросервисы/Заметки.md",
     "Проекты/Pet-проекты.md",
