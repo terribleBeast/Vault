@@ -1,3 +1,5 @@
+Таблица времен английского языка
+
 ![](_kur_lang_art_img_985.jpg)
 ![](tense_table.png)
 [Весь английский за 2 часа! Урок-шпаргалка по книге Красный Murphy \| Английский язык с нуля - YouTube](https://www.youtube.com/watch?v=xRrpvSeQq3Q&t=88s)
