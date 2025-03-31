@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Блокнот.md",
+                "file": "Учёба/Stepic/Асинхронность_Python/Конспект.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Блокнот"
+              "title": "Конспект"
             }
           }
         ],
@@ -239,16 +239,17 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "710b939c5e145a1c",
   "lastOpenFiles": [
+    "Ежедневник/2025-03-31.md",
+    "Блокнот.md",
     "АГУ/Теория автоматов и формальных языков/Заметки.md",
     "АГУ/ТФКП.md",
-    "Блокнот.md",
     "Dev/как учиться.md",
-    "Ежедневник/2025-03-31.md",
     "Ежедневник/2025-04-02.md",
     "Ежедневник/2025-04-01.md",
     "АГУ/Компьютерные сети/Заметки.md",
