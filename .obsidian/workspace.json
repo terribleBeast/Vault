@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/English/Grammatic.md",
-                "mode": "preview",
+                "file": "Ежедневник/2025-04-01.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammatic"
+              "title": "2025-04-01"
             }
           }
         ],
@@ -217,6 +217,7 @@
   },
   "active": "961ee5109d273b09",
   "lastOpenFiles": [
+    "Учёба/English/Grammatic.md",
     "Учёба/English/Books.md",
     "Учёба/English/Проработать.md",
     "Учёба/English/Notes.md",
@@ -228,7 +229,6 @@
     "Ежедневник/2025-04-01.md",
     "Учёба/Stepic/Асинхронность_Python/Ресурсы.md",
     "Вложения/tense_table.png",
-    "Учёба/English/Grammatic.md",
     "Учёба/English/Теория/Present Simple.md",
     "Учёба/Stepic/Асинхронность_Python/Содержание.md",
     "Учёба/Stepic/Асинхронность_Python/Словарь.md",
