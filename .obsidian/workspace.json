@@ -211,14 +211,14 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "periodic-notes:Open today": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "961ee5109d273b09",
   "lastOpenFiles": [
-    "Ежедневник/2025-04-01.md",
+    "Активное/Недельные планы/2025-W14.md",
     "Ежедневник/2025-04-02.md",
+    "Ежедневник/2025-04-01.md",
     "Учёба/English/Grammatic.md",
     "Учёба/English/Books.md",
     "Учёба/English/Проработать.md",
@@ -243,7 +243,6 @@
     "АГУ/План подготовки.md",
     "АГУ/Компьютерные сети/ЛК 2.md",
     "АГУ/Компьютерные сети/лаба 1.md",
-    "АГУ/Компьютерные сети/лаба 2.md",
     "АГУ/Компьютерные сети/Ковалено_лаб1.pdf",
     "Вложения/model_osi.png",
     "Вложения/memory_organisation.png",
